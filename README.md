@@ -12,7 +12,7 @@ It is a rare situation but i struggled with in different projects, especially wh
 
 Notice: currently this is very simple and just support limited sql operators (it will be improved)
 
-The repository contained test example that you can palay with an run by folowing command:
+The repository contains test example that you can play with and run by following command:
 
 ```bash
 npm run test
